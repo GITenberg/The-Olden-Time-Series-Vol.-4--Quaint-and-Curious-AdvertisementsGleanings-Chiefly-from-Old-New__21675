@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6693'
     url: http://www.gutenberg.org/2009/agents/6693
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21675#The-Olden-Time-Series-Vol.-4--Quaint-and-Curious-AdvertisementsGleanings-Chiefly-from-Old-New_
 gutenberg_issued: '2007-06-04'
 gutenberg_type: Text
 identifiers:
