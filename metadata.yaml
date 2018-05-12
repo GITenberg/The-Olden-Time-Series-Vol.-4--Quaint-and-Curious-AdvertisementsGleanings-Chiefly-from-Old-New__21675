@@ -1,0 +1,30 @@
+_repo: The-Olden-Time-Series-Vol.-4--Quaint-and-Curious-AdvertisementsGleanings-Chiefly-from-Old-New__21675
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21675-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brooks, Henry M. (Henry Mason)
+    alias: Brooks, Henry Mason
+    birthdate: 1822
+    deathdate: 1898
+    gutenberg_agent_id: '6693'
+    url: http://www.gutenberg.org/2009/agents/6693
+description: ''
+gutenberg_issued: '2007-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21675'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New England -- Social life and customs'
+- !lcc 'F001'
+- !lcsh 'Advertising'
+title: 'The Olden Time Series, Vol. 4: Quaint and Curious Advertisements
+
+  Gleanings Chiefly from Old Newspapers of Boston and Salem, Massachusetts'
+url: http://www.gutenberg.org/ebooks/21675
